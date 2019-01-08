@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\bin\Debug\SemaphoreTest.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\SemaphoreTest\SemaphoreTest\obj\Debug\SemaphoreTest.pdb

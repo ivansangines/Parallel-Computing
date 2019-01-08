@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.pdb

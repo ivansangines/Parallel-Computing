@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\bin\Debug\MutexTest.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\bin\Debug\MutexTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\bin\Debug\MutexTest.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW2\MutexTest\MutexTest\obj\Debug\MutexTest.pdb
