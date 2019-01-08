@@ -1,0 +1,30 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\bin\Debug\KMedoidsClustering.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW7\Part 1\KMedoidsClustering\KMedoidsClustering\obj\Debug\KMedoidsClustering.pdb
