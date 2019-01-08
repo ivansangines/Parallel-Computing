@@ -1,0 +1,7 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\bin\Debug\ReaderWriterLock.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\bin\Debug\ReaderWriterLock.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\obj\Debug\ReaderWriterLock.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\obj\Debug\ReaderWriterLock.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\obj\Debug\ReaderWriterLock.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\ReaderWriterLock\ReaderWriterLock\obj\Debug\ReaderWriterLock.pdb

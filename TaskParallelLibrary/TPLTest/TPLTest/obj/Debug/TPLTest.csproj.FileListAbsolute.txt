@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\bin\Debug\TPLTest.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\bin\Debug\TPLTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\bin\Debug\TPLTest.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW3\TPLTest\TPLTest\obj\Debug\TPLTest.pdb
