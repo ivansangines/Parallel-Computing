@@ -1,0 +1,14 @@
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.dll.config
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.dll
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.pdb
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.dll
+C:\Users\ivans_000\Desktop\copies\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.dll.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\bin\Debug\TSGALibrary.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\MIDTERM_SANGINES\CS590_SANGINES_HW8\TSGAMT2010\TSGALibrary\obj\Debug\TSGALibrary.pdb
