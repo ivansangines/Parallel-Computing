@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\bin\Debug\Himmelblau's.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\bin\Debug\Himmelblau's.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\bin\Debug\Himmelblau's.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau's.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau_s.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau_s.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau's.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau's.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau's.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\Himmelblau's\Himmelblau's\obj\Debug\Himmelblau's.pdb

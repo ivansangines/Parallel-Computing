@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\bin\Debug\ParallelSwarmInteligence.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\bin\Debug\ParallelSwarmInteligence.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\bin\Debug\ParallelSwarmInteligence.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelSwarmInteligence\ParallelSwarmInteligence\obj\Debug\ParallelSwarmInteligence.pdb

@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb

@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\bin\Debug\ParallelQuickSort.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\bin\Debug\ParallelQuickSort.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\bin\Debug\ParallelQuickSort.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\ParallelQuickSort\ParallelQuickSort\obj\Debug\ParallelQuickSort.pdb

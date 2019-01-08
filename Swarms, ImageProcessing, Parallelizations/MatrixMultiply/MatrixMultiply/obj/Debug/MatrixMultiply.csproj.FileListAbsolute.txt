@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW4\MatrixMultiply\MatrixMultiply\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache
