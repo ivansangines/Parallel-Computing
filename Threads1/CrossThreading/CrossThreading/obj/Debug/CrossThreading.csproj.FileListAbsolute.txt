@@ -1,0 +1,9 @@
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\bin\Debug\CrossThreading.exe.config
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\bin\Debug\CrossThreading.exe
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\bin\Debug\CrossThreading.pdb
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.csprojResolveAssemblyReference.cache
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.Form1.resources
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.Properties.Resources.resources
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.csproj.GenerateResource.Cache
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.exe
+c:\users\ivans_000\documents\visual studio 2015\Projects\CrossThreading\CrossThreading\obj\Debug\CrossThreading.pdb

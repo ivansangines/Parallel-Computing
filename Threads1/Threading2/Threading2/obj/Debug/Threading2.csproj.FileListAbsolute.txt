@@ -1,0 +1,19 @@
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\bin\Debug\Threading2.exe.config
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\bin\Debug\Threading2.exe
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\bin\Debug\Threading2.pdb
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.csprojResolveAssemblyReference.cache
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.Form1.resources
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.Properties.Resources.resources
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.csproj.GenerateResource.Cache
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.exe
+c:\users\ivans_000\documents\visual studio 2015\Projects\Threading2\Threading2\obj\Debug\Threading2.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\bin\Debug\Threading2.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\bin\Debug\Threading2.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\bin\Debug\Threading2.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW1\Threading2\Threading2\obj\Debug\Threading2.pdb
