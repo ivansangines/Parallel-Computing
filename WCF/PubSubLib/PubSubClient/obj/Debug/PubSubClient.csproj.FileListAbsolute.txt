@@ -1,0 +1,11 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\bin\Debug\PubSubClient.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\bin\Debug\PubSubClient.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\bin\Debug\PubSubClient.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubClient\obj\Debug\PubSubClient.Form2.resources

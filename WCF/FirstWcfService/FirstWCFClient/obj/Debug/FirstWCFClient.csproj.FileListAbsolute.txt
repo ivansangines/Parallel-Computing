@@ -1,0 +1,10 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\bin\Debug\FirstWCFClient.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\bin\Debug\FirstWCFClient.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\bin\Debug\FirstWCFClient.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.Form1.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.Properties.Resources.resources
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.csproj.GenerateResource.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\FirstWCFClient\obj\Debug\FirstWCFClient.pdb

@@ -1,0 +1,11 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\NewWCFHost.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\NewWCFHost.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\NewWCFHost.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\FirstWcfService.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\FirstWcfService.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\bin\Debug\FirstWcfService.dll.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\obj\Debug\NewWCFHost.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\obj\Debug\NewWCFHost.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\obj\Debug\NewWCFHost.csproj.CopyComplete
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\obj\Debug\NewWCFHost.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\FirstWcfService\NewWCFHost\obj\Debug\NewWCFHost.pdb

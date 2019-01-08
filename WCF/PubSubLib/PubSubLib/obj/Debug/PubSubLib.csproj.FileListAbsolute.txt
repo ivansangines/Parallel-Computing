@@ -1,0 +1,7 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\bin\Debug\PubSubLib.dll.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\bin\Debug\PubSubLib.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\bin\Debug\PubSubLib.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\obj\Debug\PubSubLib.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\obj\Debug\PubSubLib.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\obj\Debug\PubSubLib.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubLib\obj\Debug\PubSubLib.pdb

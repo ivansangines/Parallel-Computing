@@ -1,0 +1,11 @@
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubHost.exe.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubHost.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubHost.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubLib.dll
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubLib.pdb
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\bin\Debug\PubSubLib.dll.config
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\obj\Debug\PubSubHost.csprojAssemblyReference.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\obj\Debug\PubSubHost.csproj.CoreCompileInputs.cache
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\obj\Debug\PubSubHost.csproj.CopyComplete
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\obj\Debug\PubSubHost.exe
+C:\Users\ivans_000\Desktop\Fall2018\PARALLEL\CS590_SANGINES_HW6\PubSubLib\PubSubHost\obj\Debug\PubSubHost.pdb
